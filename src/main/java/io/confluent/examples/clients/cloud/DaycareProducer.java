@@ -1,6 +1,5 @@
 package io.confluent.examples.clients.cloud;
 
-import com.id.hackaton.MailApplication;
 import com.id.hackaton.notification.food.Food;
 import com.id.hackaton.notification.health.Health;
 import com.id.hackaton.notification.nap.Nap;

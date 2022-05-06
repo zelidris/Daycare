@@ -1,6 +1,5 @@
 package com.id.hackaton;
 
-import com.sun.nio.sctp.NotificationHandler;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
